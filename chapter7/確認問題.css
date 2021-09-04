@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section{
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  border: solid 2px #fa5894;
+}
+
+span{
+  line-height: 300px;
+  color: #fa5893;
+}
